@@ -7,6 +7,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
