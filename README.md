@@ -19,6 +19,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0006-zigzag-conversion) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
