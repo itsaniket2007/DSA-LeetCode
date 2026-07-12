@@ -38,6 +38,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0069-sqrtx) |
 ## Breadth-First Search
 |  |
@@ -79,4 +80,12 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
