@@ -88,4 +88,8 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
