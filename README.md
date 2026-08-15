@@ -13,6 +13,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -49,6 +50,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -86,11 +88,13 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -125,4 +129,8 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
