@@ -39,6 +39,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0006-zigzag-conversion) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Breadth-First Search
@@ -103,6 +105,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -155,6 +158,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
