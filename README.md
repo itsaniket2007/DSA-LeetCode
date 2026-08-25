@@ -97,6 +97,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
