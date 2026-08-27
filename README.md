@@ -39,6 +39,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1291-sequential-digits) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
