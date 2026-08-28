@@ -106,6 +106,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0142-linked-list-cycle-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0237-delete-node-in-a-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
