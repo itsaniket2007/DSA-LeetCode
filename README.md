@@ -23,6 +23,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -123,6 +124,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
