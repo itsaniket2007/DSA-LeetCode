@@ -32,6 +32,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
