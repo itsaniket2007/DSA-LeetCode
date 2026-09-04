@@ -33,6 +33,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1872-stone-game-viii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
 | ------- |
