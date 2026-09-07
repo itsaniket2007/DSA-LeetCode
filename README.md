@@ -53,6 +53,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +129,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
