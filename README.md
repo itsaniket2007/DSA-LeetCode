@@ -92,6 +92,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3870-count-commas-in-range](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Breadth-First Search
