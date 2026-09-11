@@ -27,6 +27,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -45,6 +46,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -182,10 +184,12 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
