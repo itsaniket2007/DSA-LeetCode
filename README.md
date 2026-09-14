@@ -90,6 +90,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
@@ -260,4 +261,8 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
