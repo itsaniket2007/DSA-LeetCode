@@ -29,6 +29,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -97,6 +98,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2029-stone-game-ix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -141,6 +143,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
