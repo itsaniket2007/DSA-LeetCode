@@ -58,6 +58,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -141,6 +142,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -253,6 +255,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -278,5 +281,6 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
