@@ -14,6 +14,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0835-image-overlap](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -95,6 +96,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1563-stone-game-v) |
@@ -178,6 +180,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
