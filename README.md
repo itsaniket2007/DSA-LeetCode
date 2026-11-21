@@ -29,6 +29,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [0160-intersection-of-two-linked-lists](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -66,6 +68,7 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -274,10 +277,12 @@ A curated collection of LeetCode solutions in C++, organized by DSA topics with 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/itsaniket2007/DSA-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
